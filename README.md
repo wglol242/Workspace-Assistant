@@ -109,10 +109,15 @@ PC의 상태를 ESP32로 전달해 주는 백그라운드 프로그램입니다.
 [![데모 버젼 3](https://i.ytimg.com/vi/Su-UZIvLEWg/maxresdefault.jpg)](https://youtube.com/shorts/Su-UZIvLEWg)
 
 **MS ToDo**
-[546](546.png)
+
+<img width="1917" height="1012" alt="Image" src="https://github.com/user-attachments/assets/a8fc63bd-7dd9-4247-87e9-5f89e6044545" />
+
 
 **현재 재생곡**
-![pic1](pic1.png)
 
+<img width="448" height="220" alt="Image" src="https://github.com/user-attachments/assets/4b39bd39-8018-4b61-ae55-d10bf28bf7d5" />
 
+**집중 섹션**
+
+<img width="587" height="552" alt="Image" src="https://github.com/user-attachments/assets/0f9a61dc-eb94-4708-93b0-424a735f1e77" />
 
