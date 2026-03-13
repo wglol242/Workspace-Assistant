@@ -102,8 +102,6 @@ PC의 상태를 ESP32로 전달해 주는 백그라운드 프로그램입니다.
 ## 시연 영상
 *(썸네일을 클릭하면 영상이 재생됩니다.)*
 
-[![데모 버젼](https://i.ytimg.com/vi/DgTxYCYoYao/maxresdefault.jpg)](https://www.youtube.com/shorts/DgTxYCYoYao)
-
 **배터리 추가**
 [![데모 버젼 2](https://i.ytimg.com/vi/3azfnU3NC3o/maxresdefault.jpg)](https://youtube.com/shorts/3azfnU3NC3o)
 
