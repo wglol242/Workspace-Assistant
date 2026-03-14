@@ -396,6 +396,12 @@ void loop() {
 
               display.drawStr((64 - hWidth) / 2, 60, hourStr);
               display.drawStr((64 - mWidth) / 2, 100, minStr);
+            } else {
+              static unsigned long last_ntp_retry = 0;
+              if (millis() - last_ntp_retry > 5000) {
+                configTime(9 * 3600, 0, "pool.ntp.org", "time.nist.gov");
+                last_ntp_retry = millis();
+              }
             }
           }
         }
