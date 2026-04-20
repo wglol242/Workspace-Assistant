@@ -100,7 +100,7 @@
 </p>
 
 ### 시연 영상
-[![유튜브 링크](https://i.ytimg.com/vi/moYDjGIwqeQ/maxresdefault.jpg)](https://youtube.com/shorts/moYDjGIwqeQ)
+[![유튜브 링크](https://img.youtube.com/vi/xw0jj7G-Dvg/maxresdefault.jpg)](https://youtube.com/shorts/xw0jj7G-Dvg?feature=share)
 
 ---
 
