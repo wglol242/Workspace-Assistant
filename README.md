@@ -1,6 +1,6 @@
-# MS To Do & Study Assistant
+# Workspace Assistant 
 
-### ESP32와 Windows 클라이언트, Microsoft To Do API를 연동한 스마트 데스크 학습 보조 시스템
+### 이메일, 일정, Focus Mode, 할 일 정보를 통합 연동하는 워크스페이스용 IoT 어시스턴트
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/056c028f-27b4-4ee8-9e2f-f4abb99aca2c" width="700"/>
